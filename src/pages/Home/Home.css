@@ -1,0 +1,41 @@
+.home{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 5%;
+}
+.home h1{
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(21, 21, 65);
+    margin: 20px;
+}
+.home h3{
+    color: rgb(21, 21, 65);
+}
+p{
+    font-size: 2rem;
+    line-height: 3rem;
+    text-align: justify;
+    margin-top: 40px;
+    color: rgb(61, 60, 60);
+}
+.btn{
+    background-color: tomato;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.btn-link{
+    font-size: 2rem;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-link:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(21, 21, 65);;
+}
